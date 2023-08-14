@@ -1,0 +1,14 @@
+{
+    "take profit": 10.0,
+    "stop loss": 0,
+    "volume": 66.0,
+    "assetsell": "AURAX",
+    "assetAddress": "BVRBVBFKJHFIEHEIHFIHE",
+    "status": false,
+    "errors": [],
+    "not_trigger": 77.0,
+    "purchase_price": 30.0,
+    "buy_status": true,
+    "buy_volume": 70.0,
+    "buy_not_trigger": 0
+}
